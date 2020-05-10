@@ -1,0 +1,86 @@
+body {
+    font-size: 16px;
+    color: #fff;
+    background-color: #5288fcbe;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+#header-nav {
+  background-color: #304df193;
+  color: #fff;
+  /* height: 100px; */
+  border: 0;
+  padding: 30px;
+}
+
+.navbar-header .navbar-brand h1 {
+  color:rgb(19, 6, 6);
+  position: relative;
+  top: -55px;
+  font-family: 'Courier New', Courier, monospace;
+  text-decoration: none;
+  text-shadow: 2px 2px 2px #222;
+  padding-left: 10px;
+  font-weight: bolder;
+  font-size: 4em;
+  
+}
+
+.navbar-brand a:hover , .nabar-brand a:focus {
+  text-decoration: none;
+}
+
+hr {
+  width: 95%;
+  padding: 0px;
+  margin : 0px auto 0px auto ;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+#copyrights {
+  padding: 5px 0px 0px ;
+  background-color: rgba(0, 0, 0, 0.63);
+  text-align: center;
+  color: white  ;
+}
+
+#our-menu {
+  font-weight: bold;
+  font-size: 2em; 
+  text-shadow: 2px 2px 2px #222;
+  color: rgb(20, 55, 104);
+}
+
+#main-content {
+  margin: 0px 30px 0px 30px;
+  padding: 0px 20px 0px 20px;
+}
+
+.whole_content {
+  border: 2.5px solid black;
+  font-size: 1.1em;
+  margin:25px 1px;
+}
+
+.menu-content {
+  box-sizing: border-box;
+  padding: 20px 10px;
+}
+
+.menu-header {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.top_link{
+  color: black;
+}
+
+.top_link:hover , .top_link:focus {
+  text-decoration: none;
+}
